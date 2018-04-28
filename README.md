@@ -4,4 +4,4 @@
 JDR Company's Website
 
 
-Fri 27 April 2018
+Fri, 27 April 2018
